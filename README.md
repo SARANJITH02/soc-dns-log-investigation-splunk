@@ -133,7 +133,7 @@ Dashboard built with Splunk's **Dashboard Editor (Classic)**: *Add Panel → New
 | Step | Screenshot |
 |---|---|
 | Data ingestion check | ![Data check](images/01-data-verification.jpeg) |
-| Events  | ![Events](images/02-dns-events.jpeg) |
+| Events  | ![Events](images/02-dns-events.jpeg.jpeg) |
 | Field Extractor: method | ![Method](images/03-extract-method.jpeg) |
 | Field Extractor: select fields | ![Fields](images/04-select-fields.jpeg) |
 | Top domains (stats) | ![Stats](images/05-stats-by-domain.jpeg) |
