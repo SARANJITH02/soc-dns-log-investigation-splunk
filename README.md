@@ -129,12 +129,11 @@ Dashboard built with Splunk's **Dashboard Editor (Classic)**: *Add Panel → New
 
 ## 📸 Screenshots
 
-> Create an `images/` folder in the repo and rename the screenshots as below so these links work.
 
 | Step | Screenshot |
 |---|---|
 | Data ingestion check | ![Data check](images/01-data-verification.jpeg) |
-| Events in `dns_logs` | ![Events](images/02-dns-events.jpeg) |
+| Events  | ![Events](images/02-dns-events.jpeg) |
 | Field Extractor: method | ![Method](images/03-extract-method.jpeg) |
 | Field Extractor: select fields | ![Fields](images/04-select-fields.jpeg) |
 | Top domains (stats) | ![Stats](images/05-stats-by-domain.jpeg) |
